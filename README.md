@@ -8,3 +8,4 @@ This is a collection of simple examples that demonstrate good practices to accom
 |---------------|
 | [Generate random numbers](random_num_gen/src/main.rs) |
 | [Generate random numbers within a range](random_num_gen_range/src/main.rs) |
+| [Generate random numbers with given distribution](random_num_gen_distribution/src/main.rs) |
