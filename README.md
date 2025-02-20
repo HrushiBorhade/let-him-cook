@@ -7,3 +7,4 @@ This is a collection of simple examples that demonstrate good practices to accom
 | Implementation |
 |---------------|
 | [Generate random numbers](random_num_gen/src/main.rs) |
+| [Generate random numbers within a range](random_num_gen_range/src/main.rs) |
