@@ -6,4 +6,4 @@ This is a collection of simple examples that demonstrate good practices to accom
 
 | Implementation |
 |---------------|
-| [Generate random numbers](randon_number_gen/src/main.rs) |
+| [Generate random numbers](random_num_gen/src/main.rs) |
