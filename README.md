@@ -22,3 +22,4 @@ This is a collection of simple examples that demonstrate good practices to accom
 |---------------|
 | [Spawn a short-lived thread](short_lived_thread/src/lib.rs) |
 | [Parallel Pipeline](parallel_pipeline/src/lib.rs) |
+| [Pass Data between two threads](threads_data_transfer/src/lib.rs) |
