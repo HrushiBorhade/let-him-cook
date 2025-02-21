@@ -14,3 +14,10 @@ This is a collection of simple examples that demonstrate good practices to accom
 | [Sort a Vector of Integers](sort/src/main.rs) |
 | [Sort a Vector of Floats](sort/src/main.rs) |
 | [Sort a Vector of Structs](sort/src/main.rs) |
+
+
+## Concurrency 
+
+| Implementation |
+|---------------|
+| [Spawn a short-lived thread](short_lived_thread/src/lib.rs) |
