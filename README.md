@@ -21,3 +21,4 @@ This is a collection of simple examples that demonstrate good practices to accom
 | Implementation |
 |---------------|
 | [Spawn a short-lived thread](short_lived_thread/src/lib.rs) |
+| [Parallel Pipeline](parallel_pipeline/src/lib.rs) |
